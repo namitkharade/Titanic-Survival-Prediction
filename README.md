@@ -1,6 +1,7 @@
 # Titanic-Survival-Prediction
 
-This was my first attempt at Kaggle competition Datasets include passenger information like name, age, gender, socio-economic class, etc.
+This was my first attempt at Kaggle competition 
+Datasets include passenger information like name, age, gender, socio-economic class, etc.
 
 Train dataset contains the details of a subset of the passengers on board (891 to be exact) and importantly, also reveal whether they survived or not, also known as the “ground truth”.
 
